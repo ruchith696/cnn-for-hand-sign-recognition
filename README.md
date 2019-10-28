@@ -5,8 +5,8 @@ The goal of this project is, given a hand sign image, predict the digit shown in
 ![](images/SIGNS.png)
 
 ## Quick start:
-clone or download the repository and run signs.py
-> signs.py
+clone or download the repository and run signs.py  
+` signs.py `
 
 
  ## Outline
