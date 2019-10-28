@@ -5,8 +5,8 @@ The goal of this project is, given a hand sign image, predict the digit shown in
 ![](images/SIGNS.png)
 
 ## Quick start:
-clone or download the repository and run signs.py  
-` signs.py `
+* clone or download the repository and run signs.py  
+     ` signs.py `
 
 
  ## Outline
@@ -24,15 +24,15 @@ clone or download the repository and run signs.py
  7. one hot vector : to convert the labels into categorial ( as shown in above image)
  
  ### Model :
-  **input** : training data, testing data, learning rate, num epochs, mini batch size  
+  * **input** : training data, testing data, learning rate, num epochs, mini batch size  
   
-  **ouput**(after running the model) : training accuracy, testing accuracy, plot showing the cost function value after each epoch  
+  * **ouput**(after running the model) : training accuracy, testing accuracy, plot showing the cost function value after each epoch  
   
   ## Results:
   
   ![](images/result.png)
  
-Train Accuracy: 0.98333335  
-Test Accuracy: 0.8833333
+* Train Accuracy: 0.98333335  
+* Test Accuracy: 0.8833333
 
 
